@@ -1,3 +1,15 @@
+/* google font */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+/* common css */
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* custom css */
+
 .bg-custom{
     background: #264653;
 }
@@ -6,6 +18,13 @@
   }
 .color{
     color: #E76F51;
+}
+.bg-color{
+    background-color: #E76F51;
+}
+.name{
+    color: #23A6F0;
+    text-decoration: none;
 }
 .bg-img{
     background-image: url(../img/glass.jpg);
