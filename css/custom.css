@@ -4,3 +4,6 @@
 .grayscale {
     filter: grayscale(100%);
   }
+.color{
+    color: #E76F51;
+}
